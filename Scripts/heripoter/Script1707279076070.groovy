@@ -23,8 +23,8 @@ WebUI.navigateToUrl(GlobalVariable.website)
 
 WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Customer Login'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b'),
-	'2', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b'), 
+    '2', true)
 
 WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Login'))
 
@@ -39,3 +39,4 @@ WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Withdrawl'))
 WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Amount to be Deposited_form-control n_97f4dd'), GlobalVariable.withdraw)
 
 WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Withdraw'))
+
