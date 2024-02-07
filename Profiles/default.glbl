@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.globalsqa.com/angularJs-protractor//BankingProject/#/login'</initValue>
+      <name>website</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10000'</initValue>
+      <name>deposito</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5000'</initValue>
+      <name>withdraw</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
